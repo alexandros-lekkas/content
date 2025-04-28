@@ -1,3 +1,3 @@
 # Content 📹
 
-The code I showcase in my videos, just for fun
+A repository containing all of the code snippets I feature in my videos.
